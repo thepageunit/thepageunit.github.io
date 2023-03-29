@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -132,12 +133,9 @@
 		bar<br><br></i>
 	<div id="player-div">
 		<div id="player">
-<iframe
-  frameborder="0"
-  width="400"
-  height="200"
-  src="https://drive.google.com/file/d/1gbXSLoHbh4Ls79pAkwYLidLH0f7ha5p4/preview">
-</iframe>
+			<audio controls="controls" id="audio_player">
+				<source src="https://drive.google.com/file/d/1gbXSLoHbh4Ls79pAkwYLidLH0f7ha5p4/preview" />
+			</audio>
 		</div>
 		<div><label for="autoscroll">auto-scroll: </label>
 			<input type="checkbox" id="autoscroll" checked>
@@ -314,7 +312,7 @@
 				<a href="#00:00:055.30" id="55.2" class="lt" onclick="jumptoTime(55, this.id)"> As</a><!--
 				--><a href="#00:00:055.81" id="55.8" class="lt" onclick="jumptoTime(55, this.id)"> are</a><!--
 				--><a href="#00:00:056.05" id="56.0" class="lt" onclick="jumptoTime(56, this.id)"> all</a><!--
-				--><a href="#00:00:056.31" id="56.4" class="lt" onclick="jumptoTime(56, this.id)"> otherちゃнсoys</a><!--
+				--><a href="#00:00:056.31" id="56.4" class="lt" onclick="jumptoTime(56, this.id)"> otherã¡ã‚ƒÐ½Ñoys</a><!--
 				--><a href="#00:00:057.55" id="57.6" class="lt" onclick="jumptoTime(57, this.id)"> Truck</a><!--
 				--><a href="#00:00:057.55" id="57.6" class="lt" onclick="jumptoTime(57, this.id)"> owners</a><!--
 				--><a href="#00:00:058.90" id="58.8" class="lt" onclick="jumptoTime(58, this.id)"> all</a><!--
@@ -1331,7 +1329,7 @@
 <span style="color:FFB3BA;font-weight: bold;">Mitch</span><br>
 				<a href="#00:06:009.44" id="369.4" class="lt" onclick="jumptoTime(369, this.id)"> rho...</a><!--
 				--><a href="#00:06:009.76" id="369.8" class="lt" onclick="jumptoTime(369, this.id)"> that</a><!--
-				--><a href="#00:06:009.76" id="369.8" class="lt" onclick="jumptoTime(369, this.id)"> —</a><!--
+				--><a href="#00:06:009.76" id="369.8" class="lt" onclick="jumptoTime(369, this.id)"> â€”</a><!--
 				--><a href="#00:06:009.88" id="369.8" class="lt" onclick="jumptoTime(369, this.id)"> I'm</a><!--
 				--><a href="#00:06:010.12" id="370.2" class="lt" onclick="jumptoTime(370, this.id)"> NOT</a><!--
 				--><a href="#00:06:010.40" id="370.4" class="lt" onclick="jumptoTime(370, this.id)"> listening</a><!--

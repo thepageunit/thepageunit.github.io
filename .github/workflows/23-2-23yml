@@ -134,9 +134,7 @@
 	<div id="player-div">
 		<div id="player">
 			<audio controls="controls" id="audio_player">
-				<source src="
-thepageunit.github.io/.github/workflows/
-input.wav" />
+				<source src="https://raw.githubusercontent.com/thepageunit/thepageunit.github.io/main/input.wav" />
 			</audio>
 		</div>
 		<div><label for="autoscroll">auto-scroll: </label>

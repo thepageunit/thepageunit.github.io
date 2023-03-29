@@ -132,9 +132,12 @@
 		bar<br><br></i>
 	<div id="player-div">
 		<div id="player">
-			<audio controls="controls" id="audio_player">
-				<source src="https://drive.google.com/file/d/1gbXSLoHbh4Ls79pAkwYLidLH0f7ha5p4/view?usp=sharing" />
-			</audio>
+<iframe
+  frameborder="0"
+  width="400"
+  height="200"
+  src="https://drive.google.com/file/d/1gbXSLoHbh4Ls79pAkwYLidLH0f7ha5p4/preview">
+</iframe>
 		</div>
 		<div><label for="autoscroll">auto-scroll: </label>
 			<input type="checkbox" id="autoscroll" checked>
